@@ -1,2 +1,0 @@
-# code-lua
- Primeiro repositório 
